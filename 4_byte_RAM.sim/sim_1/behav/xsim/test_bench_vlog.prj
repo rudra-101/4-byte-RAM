@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../4_byte_RAM.srcs/sources_1/new/Circuit.v" \
+"../../../../4_byte_RAM.srcs/sources_1/new/Decoder74LS139.v" \
+"../../../../4_byte_RAM.srcs/sources_1/new/MUX74HC153.v" \
+"../../../../4_byte_RAM.srcs/sources_1/new/QuadDFF74LS175.v" \
+"../../../../4_byte_RAM.srcs/sources_1/new/dff.v" \
+"../../../../4_byte_RAM.srcs/sources_1/new/mux.v" \
+"../../../../4_byte_RAM.srcs/sim_1/new/test_bench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rudra/Downloads/Traffic-Light-Controller-using-Verilog-master/4_byte_RAM/4_byte_RAM.srcs/sources_1/new/Circuit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Circuit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rudra/Downloads/Traffic-Light-Controller-using-Verilog-master/4_byte_RAM/4_byte_RAM.srcs/sources_1/new/Decoder74LS139.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decoder74LS139
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rudra/Downloads/Traffic-Light-Controller-using-Verilog-master/4_byte_RAM/4_byte_RAM.srcs/sources_1/new/MUX74HC153.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX74HC153
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rudra/Downloads/Traffic-Light-Controller-using-Verilog-master/4_byte_RAM/4_byte_RAM.srcs/sources_1/new/QuadDFF74LS175.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module QuadDFF74LS175
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rudra/Downloads/Traffic-Light-Controller-using-Verilog-master/4_byte_RAM/4_byte_RAM.srcs/sources_1/new/dff.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dff
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rudra/Downloads/Traffic-Light-Controller-using-Verilog-master/4_byte_RAM/4_byte_RAM.srcs/sources_1/new/mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rudra/Downloads/Traffic-Light-Controller-using-Verilog-master/4_byte_RAM/4_byte_RAM.srcs/sim_1/new/test_bench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_bench
