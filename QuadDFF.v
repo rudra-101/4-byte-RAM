@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module QuadDFF74LS175(D0, D1, D2, D3, Q0, Q1, Q2, Q3, Reset, Clk);
+module QuadDFF(D0, D1, D2, D3, Q0, Q1, Q2, Q3, Reset, Clk);
 
 	input D0, D1, D2, D3, Clk, Reset;	//Reset is active LOW
 	output Q0, Q1, Q2, Q3;
