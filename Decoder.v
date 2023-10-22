@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module Decoder74LS139(S0, S1, En, A0, A1, A2, A3);
+module Decoder(S0, S1, En, A0, A1, A2, A3);
 
 	input S0, S1, En;	//S1 is MSB and S0 is LSB , Enable En is active LOW
 	output A0, A1, A2, A3;

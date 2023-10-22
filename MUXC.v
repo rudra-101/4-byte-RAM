@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module MUX74HC153(A0, A1, A2, A3, o1, A4, A5, A6, A7, o2, S0, S1, E1, E2);
+module MUXC(A0, A1, A2, A3, o1, A4, A5, A6, A7, o2, S0, S1, E1, E2);
 
 	input A0, A1, A2, A3, A4, A5, A6, A7, S0, S1, E1, E2;	//s1 is MsB and s0 is LSB , enable E1 and E2 are active LOW
 	output o1, o2;
